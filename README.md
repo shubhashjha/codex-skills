@@ -87,6 +87,26 @@ This repository contains basic skill folders with plain descriptions and short w
 - `minimal-api`: Basic skill for creating and updating minimal API endpoints, route groups, and lightweight service registrations.
 - `mocking-moq`: Basic skill for Moq based test doubles, behavior setup, and interaction verification in unit tests.
 - `mongodb-with-dotnet`: Basic skill for MongoDB collections, document mapping, and repository style data access in .NET.
+- `mssql-agent-jobs`: Basic skill for SQL Server Agent jobs, schedules, and recurring database maintenance tasks.
+- `mssql-backup-restore`: Basic skill for SQL Server backup, restore, and routine recovery related workflows.
+- `mssql-basics`: Basic skill for common Microsoft SQL Server usage, schema understanding, and routine SQL work in .NET projects.
+- `mssql-ctes`: Basic skill for SQL Server common table expressions, recursive queries, and query readability improvements.
+- `mssql-deadlock-analysis`: Basic skill for investigating SQL Server deadlocks and reducing deadlock prone query patterns.
+- `mssql-execution-plans`: Basic skill for reading SQL Server execution plans and identifying common bottlenecks.
+- `mssql-functions`: Basic skill for scalar and table valued SQL Server functions and their safe usage patterns.
+- `mssql-indexing`: Basic skill for SQL Server indexes, index selection, and common query performance improvements.
+- `mssql-locking-blocking`: Basic skill for SQL Server locking, blocking, deadlock analysis, and concurrency related fixes.
+- `mssql-normalization`: Basic skill for SQL Server normalization decisions and balanced relational schema design.
+- `mssql-partitioning`: Basic skill for SQL Server table partitioning and data management strategies for large datasets.
+- `mssql-query-optimization`: Basic skill for SQL Server query tuning, execution plan review, and reducing slow query patterns.
+- `mssql-query-writing`: Basic skill for writing SELECT, JOIN, GROUP BY, filtering, and readable SQL Server queries.
+- `mssql-security`: Basic skill for SQL Server logins, users, permissions, and secure database access practices.
+- `mssql-stored-procedures`: Basic skill for creating, updating, and calling SQL Server stored procedures from application code.
+- `mssql-table-design`: Basic skill for SQL Server table design, keys, constraints, and practical relational modeling.
+- `mssql-temp-tables`: Basic skill for SQL Server temp tables, table variables, and temporary data processing patterns.
+- `mssql-transactions`: Basic skill for SQL Server transactions, rollback behavior, and safe data consistency workflows.
+- `mssql-triggers`: Basic skill for SQL Server trigger creation, maintenance, and trigger related behavior review.
+- `mssql-views`: Basic skill for SQL Server views, view maintenance, and safe usage in application reporting.
 - `multitenancy-dotnet`: Basic skill for tenant isolation, tenant aware services, and shared platform patterns in .NET systems.
 - `mvc-webapp`: Basic skill for standard ASP.NET Core MVC controllers, views, model binding, and form handling.
 - `nuget-package-authoring`: Basic skill for creating, versioning, packing, and publishing reusable NuGet packages.
